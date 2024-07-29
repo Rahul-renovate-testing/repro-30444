@@ -3,6 +3,5 @@
   "extends": ["config:recommended", ":automergeAll", ":disableDependencyDashboard"],
   "labels": ["dependencies", "auto-approve"],
   "prHourlyLimit": 2,
-  "prConcurrentLimit": 20,
-  "rangeStrategy": "bump"
+  "prConcurrentLimit": 20
 }
